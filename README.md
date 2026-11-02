@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,18,10,2,0&height=220&section=header&text=Agentic%20Awesome%20Skills&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A7%A9%20Local%20Control%20Plane%20%26%20Catalog%20for%202%2C750%2B%20Agentic%20Skills&descAlignY=62&descAlign=50" width="100%" alt="Agentic Awesome Skills 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,18,10,2,0&height=220&section=header&text=Agentic%20Awesome%20Skills&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A7%A9%20Local%20Control%20Plane%20%E2%80%A2%20Catalog%20for%202%2C750%2B%20Agentic%20Skills&descAlignY=62&descAlign=50" width="100%" alt="Agentic Awesome Skills 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/agentic-awesome-skills">
