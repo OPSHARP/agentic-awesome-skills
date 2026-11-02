@@ -1,3 +1,27 @@
+<div align="center">
+
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,18,10,2,0&height=220&section=header&text=Agentic%20Awesome%20Skills&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A7%A9%20Local%20Control%20Plane%20%26%20Catalog%20for%202%2C750%2B%20Agentic%20Skills&descAlignY=62&descAlign=50" width="100%" alt="Agentic Awesome Skills 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/agentic-awesome-skills">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="95" height="95" alt="Agentic Awesome Skills 3D Icon" />
+  </a>
+
+  <h1>Agentic Awesome Skills</h1>
+  <p><b>🧩 Local Control Plane & Catalog for 2,750+ Agentic Skills</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,git&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 <!-- registry-sync: version=20.0.0; skills=2750; stars=48423; updated_at=2026-10-24T08:21:30+00:00 -->
 # AAS Core — Agentic Awesome Skills
 
@@ -788,3 +812,9 @@ Original documentation and other non-code written content are licensed under [CC
 ### Consolidated plugin packs
 
 The focused offer unifies overlapping historical bundles with the AAS packs. Use the [plugin migration guide](docs/users/plugin-migration.md) to find replacements. Existing installations require a manual switch after verifying the destination; activation aliases do not create duplicate marketplace plugins. Changes on main become available through the next published release.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,18,10,2,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
